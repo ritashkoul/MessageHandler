@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Jp8REUaWJ+zwZBX0u2IKXUt9zTlclJUbZdsNNl33Df8F1BYKgxEjXOS8+UGU+yZZxJZtiBQ6Tb5B4zCkReoSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Ritash\\Codebase\\MyRepos\\MessageHandlerPOC\\MessageHandlerPOC\\MessageHandlerPOC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2096301\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
